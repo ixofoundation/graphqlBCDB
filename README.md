@@ -11,8 +11,8 @@ Run
 ```
 npm install
 ```
-
-Go to [IPDB](https://ipdb.io/#getstarted) and sign up and get an APP ID and APP Key then set these in the .env file
+Copy the **.env-example** file and name it **.env**
+Go to [IPDB](https://ipdb.io/#getstarted) and sign up and get an *APP ID* and *APP Key* then set these in the **.env** file
 
 Build code
 ```
